@@ -1,0 +1,1 @@
+run = "cd Learning;cd src; bash autocompile.sh"
